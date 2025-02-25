@@ -11,7 +11,7 @@ const Navbar = () => {
 			<div className="flex items-center space-x-4">
 				<FiSearch className="text-xl" />
 				<FiBell className="text-xl" />
-				<button onClick={logout} className="bg-red-500 px-4 py-2 rounded">Logout</button>
+				<button onClick={logout} className="bg-red-500 px-4 py-2 rounded">Logoutss</button>
 			</div>
 		</div>
 	);
